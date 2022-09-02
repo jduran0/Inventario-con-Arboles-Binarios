@@ -1,0 +1,45 @@
+.entradas {
+    border-color: yellow;
+    border-style: solid;
+    border-radius: 25px;
+    width: 475px;
+    padding: 8px;
+    display: inline-block;
+}
+
+.boton {
+    border-radius: 8px;
+    border-style: solid;
+    text-align: center;
+    padding: 8px;
+    font-style: oblique;
+}
+
+.mostrados {
+    border-radius: 15px;
+    border-style: solid;
+    border-color: lightskyblue;
+    background-color: mediumaquamarine;
+    padding: 8px;
+}
+
+.naranja {
+    background-color: olivedrab;
+    border-color: orange;
+}
+
+.morado {
+    background-color: mediumseagreen;
+    border-color: mediumorchid;
+}
+
+.cafe {
+    background-color: firebrick;
+    border-color: brown;
+}
+
+.cajas {
+    border-color: grey;
+    font-style: italic;
+    font-weight: 400;
+}
